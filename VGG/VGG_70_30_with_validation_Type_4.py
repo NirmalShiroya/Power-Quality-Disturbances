@@ -19,8 +19,8 @@ import tensorflow as tf
 tf.keras.backend.set_floatx('float32')
 
 # Load and merge data
-train_data = pd.read_csv('Data/Train_data.csv')
-test_data = pd.read_csv('Data/Test_data.csv')
+train_data = pd.read_csv('Metadata/Train_data.csv')
+test_data = pd.read_csv('Metadata/Test_data.csv')
 merged_data = pd.concat([train_data, test_data], ignore_index=True)
 
 # Function to extract patterns using 'THD-V Max(%)'
