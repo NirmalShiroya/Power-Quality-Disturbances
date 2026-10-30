@@ -101,15 +101,10 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 ### Run ResNet Model
-
-```bash id="x91mqp"
-python ROC/ResNet.py
-```
-
 ### Run Specific Experiment
 
 ```bash id="v7af0c"
-python ResNet/ResNet_60_40_with_validation_Type1.py
+python ResNet/ResNet.py
 ```
 
 ---
