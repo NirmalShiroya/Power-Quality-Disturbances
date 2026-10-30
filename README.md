@@ -77,10 +77,6 @@ Power-Quality-Disturbances/
 ├── ResNet/                        # ResNet model experiments
 ├── VGG/                           # VGG model experiments
 │
-├── ROC/                           # ROC & K-Fold analysis
-│   ├── ResNet.py
-│   └── VGG.py
-│
 ├── requirements.txt               # Dependencies
 └── README.md                      # Documentation
 ```
