@@ -210,14 +210,15 @@ print("=" * 80)
 # ============================================================
 
 FILE_1 = (
-    r"C:/Users/nirma/Downloads/"
-    r"Cleaned_Data_with_Disturbance_Type_1-6.csv"
+    r"C:/Users/Downloads/"
+    r"Train_Data.csv"
 )
 
 FILE_2 = (
-    r"C:/Users/nirma/Downloads/"
-    r"Cleaned_Data_with_Disturbance_Type_7-12.csv"
+    r"C:/Users/Downloads/"
+    r"Test_Data.csv"
 )
+
 
 
 # ============================================================
